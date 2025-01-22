@@ -11,11 +11,11 @@ Library Analytics is a data analytics project aimed at analyzing library data us
 - **publication_year**: Year the book was published
 - **barcode**: Unique barcode for the book
 
-### Tools Used 
+### 2. Tools Used 
 
 <img src="Code Outputs/my sql logo (1).png"/>
 
-### 2. Loans
+### 3. Loans
 - **loan_id**: Unique identifier for each loan
 - **book_id**: Reference to the book being loaned
 - **patron_id**: Reference to the patron borrowing the book
@@ -23,7 +23,7 @@ Library Analytics is a data analytics project aimed at analyzing library data us
 - **due_date**: Date the book is due back
 - **return_date**: Date the book was returned
 
-### 3. Patrons
+### 4. Patrons
 - **patron_id**: Unique identifier for each patron
 - **first_name**: Patron's first name
 - **last_name**: Patron's last name
