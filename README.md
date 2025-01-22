@@ -11,6 +11,10 @@ Library Analytics is a data analytics project aimed at analyzing library data us
 - **publication_year**: Year the book was published
 - **barcode**: Unique barcode for the book
 
+### Tools Used 
+
+<img src="Code Outputs/my sql logo (1).png"/>
+
 ### 2. Loans
 - **loan_id**: Unique identifier for each loan
 - **book_id**: Reference to the book being loaned
