@@ -28,43 +28,73 @@ Library Analytics is a data analytics project aimed at analyzing library data us
 ## Queries
 1. check total copies of the book
    
-   <img src="Code Outputs/total copies of the book.png"/>
+<img src="Code Outputs/total copies of the book.png"/>
 
-3. current total loans of the book
+2. current total loans of the book
 
-4. total available book 
+<img src="Code Outputs/current total loans of.png"/>
 
-5. Check out Books
+3. total available book
 
-6. Check books for Due back generate a report of books due back on July 13, 2020 with patron contact information
+<img src="Code Outputs/total available books.png"/>
 
-7. Return books to the library
+4. Check out Books
 
-8. Encourage Patrons to check out books generate a report of showing 10 patrons who have checked out the fewest books.
+<img src="Code Outputs/check out books.png"/>
 
-9. Find books to feature for an event create a list of books from 1890s that are currently available
+5. Check books for Due back generate a report of books due back on July 13, 2020 with patron contact information
 
-10. Book Statistics create a report to show how many books were  published each year.
+<img src="Code Outputs/books for due back.png"/>
 
-11. create a report to show 5 most popular Books to check out
+6. Encourage Patrons to check out books generate a report of showing 10 patrons who have checked out the fewest books.
 
-12. Find overdue loans
+<img src="Code Outputs/encrourage patrons .png"/>
 
-13. Find all loans made by a specific patron
+7. Find books to feature for an event create a list of books from 1890s that are currently available
 
-14. List all patrons who have never borrowed a book
+<img src="Code Outputs/books to feature for even.png"/>
 
-15. Find the most popular book (most loans)
+8. Book Statistics create a report to show how many books were  published each year.
 
-16. Retrieve all loans with their return status
+<img src="Code Outputs/book statistics.png"/>
 
-17. List books with no loans
+9. create a report to show 5 most popular Books to check out
 
-18. Find loans that are due in the next 7 days
+<img src="Code Outputs/create a report to show 5 most.png"/>
 
-19. Retrieve all loans and their return dates, filtering for those that have been returned
+10. Find overdue loans
 
-20. Find the number of books loaned per year
+<img src="Code Outputs/find overdues loans.png"/>
 
-21. List all loans with associated book titles and patron names 
-   
+11. Find all loans made by a specific patron
+
+<img src="Code Outputs/all loans made by a specific patron.png"/>
+
+12. List all patrons who have never borrowed a book
+
+<img src="Code Outputs/list all patron who have never borrowed.png"/>
+
+13. Find the most popular book (most loans)
+
+<img src="Code Outputs/most popular books.png"/>
+
+14. Retrieve all loans with their return status
+
+<img src="Code Outputs/retrive all loans with their return.png"/>
+
+15. List books with no loans
+
+<img src="Code Outputs/list book with no loans.png"/>
+
+16. Find loans that are due in the next 7 days
+
+<img src="Code Outputs/find loans due in  7 days.png"/>
+
+17. Retrieve all loans and their return dates, filtering for those that have been returned
+
+<img src="Code Outputs/all loans and their return date.png"/>
+
+18. Find the number of books loaned per year
+
+<img src="Code Outputs/number of books loaned per year.png"/>
+
