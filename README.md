@@ -25,9 +25,13 @@ Library Analytics is a data analytics project aimed at analyzing library data us
 - **last_name**: Patron's last name
 - **email**: Patron's email address
 
-### Tools Used 
+## Tools Used 
 
 <img src="Code Outputs/my sql logo (1).png"/>
+
+## Components
+
+[queries](https://github.com/adeebhashmi55/LIBRARY_ANALYTICS_SQL_PROJECT/blob/main/Queries.sql)
 
 ## Queries
 1. check total copies of the book
