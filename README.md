@@ -31,7 +31,7 @@ Library Analytics is a data analytics project aimed at analyzing library data us
 
 ## Components
 
-[queries](https://github.com/adeebhashmi55/LIBRARY_ANALYTICS_SQL_PROJECT/blob/main/Queries.sql)
+[Click here to get queries](https://github.com/adeebhashmi55/LIBRARY_ANALYTICS_SQL_PROJECT/blob/main/Queries.sql)
 
 ## Queries
 1. check total copies of the book
